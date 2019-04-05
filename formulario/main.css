@@ -1,0 +1,12 @@
+form:last-child > fieldset {
+    background-color: violet;
+}
+input{
+    padding-inline-start: none;
+    border: none;
+}
+select{
+    padding-inline-start: none;
+    border:none;
+}
+C:\Users\Ada Lovelace\Desktop\ADA\clase-07\index.html
